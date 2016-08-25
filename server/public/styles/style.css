@@ -1,0 +1,47 @@
+
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+.img {
+	max-height: auto;
+	width: 680px;
+	display: inline-block;
+}
+
+.hopbio {
+	display: inline-block;
+	font-size: 20px;
+
+}
+
+.elevenbio {
+	display: inline-block;
+	font-size: 20px;
+
+}
+
+.demobio {
+	display: inline-block;
+	font-size: 20px;
+
+}
+
+
+
+
+
+
+
+footer {
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 2px;
+	height: 50px;
+	background-color: black;
+	color: white;
+
+
+}
